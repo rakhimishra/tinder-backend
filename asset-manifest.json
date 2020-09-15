@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tinder-backend/static/css/main.ec6d2105.chunk.css",
-    "main.js": "/tinder-backend/static/js/main.ae622c91.chunk.js",
-    "main.js.map": "/tinder-backend/static/js/main.ae622c91.chunk.js.map",
-    "runtime-main.js": "/tinder-backend/static/js/runtime-main.7ca02dd3.js",
-    "runtime-main.js.map": "/tinder-backend/static/js/runtime-main.7ca02dd3.js.map",
-    "static/js/2.db341cb7.chunk.js": "/tinder-backend/static/js/2.db341cb7.chunk.js",
-    "static/js/2.db341cb7.chunk.js.map": "/tinder-backend/static/js/2.db341cb7.chunk.js.map",
-    "index.html": "/tinder-backend/index.html",
-    "precache-manifest.a7c704b86ab6d0146381e2733e529cd1.js": "/tinder-backend/precache-manifest.a7c704b86ab6d0146381e2733e529cd1.js",
-    "service-worker.js": "/tinder-backend/service-worker.js",
-    "static/css/main.ec6d2105.chunk.css.map": "/tinder-backend/static/css/main.ec6d2105.chunk.css.map",
-    "static/js/2.db341cb7.chunk.js.LICENSE.txt": "/tinder-backend/static/js/2.db341cb7.chunk.js.LICENSE.txt"
+    "main.css": "/tinder-frontend/static/css/main.ec6d2105.chunk.css",
+    "main.js": "/tinder-frontend/static/js/main.a43df4ff.chunk.js",
+    "main.js.map": "/tinder-frontend/static/js/main.a43df4ff.chunk.js.map",
+    "runtime-main.js": "/tinder-frontend/static/js/runtime-main.ec3bda4b.js",
+    "runtime-main.js.map": "/tinder-frontend/static/js/runtime-main.ec3bda4b.js.map",
+    "static/js/2.db341cb7.chunk.js": "/tinder-frontend/static/js/2.db341cb7.chunk.js",
+    "static/js/2.db341cb7.chunk.js.map": "/tinder-frontend/static/js/2.db341cb7.chunk.js.map",
+    "index.html": "/tinder-frontend/index.html",
+    "precache-manifest.214086409e27d4573e7c15e3fa9911ca.js": "/tinder-frontend/precache-manifest.214086409e27d4573e7c15e3fa9911ca.js",
+    "service-worker.js": "/tinder-frontend/service-worker.js",
+    "static/css/main.ec6d2105.chunk.css.map": "/tinder-frontend/static/css/main.ec6d2105.chunk.css.map",
+    "static/js/2.db341cb7.chunk.js.LICENSE.txt": "/tinder-frontend/static/js/2.db341cb7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ca02dd3.js",
+    "static/js/runtime-main.ec3bda4b.js",
     "static/js/2.db341cb7.chunk.js",
     "static/css/main.ec6d2105.chunk.css",
-    "static/js/main.ae622c91.chunk.js"
+    "static/js/main.a43df4ff.chunk.js"
   ]
 }
